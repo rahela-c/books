@@ -8,7 +8,7 @@ function BookList({ books }) {
 
     return (
         <div className="book-list">{renderedBooks}</div>
-    ); // asa e corect, sau daca ai doar un rand, cum a foost mai devreme
+    );
 
 }
 
